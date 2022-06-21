@@ -1,0 +1,3 @@
+oi
+
+Deixar a aplicação mais fluida quando não precisamos das respostas para dar seguimento
